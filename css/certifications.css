@@ -1,0 +1,17 @@
+
+h2 {
+  text-align: center;
+  padding: 3rem;
+  font-size: 3.5rem;
+  margin-bottom:3rem;
+} 
+/* Slider */ 
+.slick-slide {
+  margin: 0px 10px;
+} 
+.slick-slide img {
+  width: 100%;
+}
+
+
+  
